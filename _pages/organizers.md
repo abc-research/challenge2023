@@ -1,18 +1,18 @@
 ---
 layout: single
 permalink: /organizers/
-date: 2022-05-31T00:00:00+09:00
+date: 2023-04-24T00:00:00+09:00
 ---
 This challenge and associated workshop are organized by [Sozolab](https://sozolab.jp/?locale=en).
 
-- *Defry Hamdhana*
-- *Haru Kaneko*
+- *John Noel Victorino*
 - *Christina Garcia*
+- *Defry Hamdhana*
 - *Nazmun Nahid*
+- *Haru Kaneko*
+- *Muhammad Fikry*
 - *Tahera Hossain*
-- *Sayeda Shamma Alia*
 - *Sozo Inoue*
-- *Paula Lago*
 
 ## Lab Information
 Sozo Inoue Lab, Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology.
