@@ -1,11 +1,11 @@
 ---
 layout: single
-title: 5th ABC Challenge
+title: Abouth 5th ABC Challenge
 permalink: /learn/
 date: 2023-05-8T00:00:00+09:00
 ---
 
-## 5th ABC Challenge: Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
+## Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
 
 Parkinson's disease (PD) is a neurodegenerative disorder caused by the loss of dopamine-producing brain cells.
 It primarily affects the patient's motor abilities but also impacts non-motor functions over time.
@@ -31,6 +31,7 @@ There are three datasets for this challenge.
 - Garmin dataset contains PD patients' heart rate, number of steps, stress level, and sleep pattern.
 - Wearing-off periods dataset was based on the Wearing-Off Questionnaire (WoQ-9). PD patients self-report the absence or presence of wearing-off symptoms.
 - Drug intake dataset was also based on the WoQ-9. PD patients self-report the time of drug intake, and the effect of the drug to their symptoms.
+
 <!--
 - [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
 - [To understand the dataset more clearly](/challenge2022/data/)
@@ -46,9 +47,9 @@ The goal of the Nurse Care Activity Recognition Challenge is to recognize the da
 
 
 The training and testing dataset contains accelerometer data of 12 users (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22), which were collected on May and June, 2018. The training data is provided with the activities labels, which describe the users’ activities before 18th June, 2018. The testing data was the accelerometer data acquired on 18th June and afterward. Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset.
--->
 
-<!--old
+
+
 ## Evaluation
 Accuracy will be used as the performance measure.
 Submissions will be evaluated by the average of the accuracy of macro activity classification (ma) and the average accuracy of micro-activity classification (mi). That is (ma+mi)/2.
