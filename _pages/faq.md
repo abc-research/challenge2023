@@ -2,14 +2,17 @@
 layout: single
 title: ""
 permalink: /faq/
-date: 2022-07-14T00:00:00+09:00
+date: 2023-05-8T00:00:00+09:00
 ---
 
 # Frequently Asked Questions
 
-Submit your questions to abc2022@sozolab.jp with the subject *Nurse Care Challenge 2022*.
+Submit your questions to **abc2023@sozolab.jp** with the subject **Parkinson Challenge 2023**.
 
+## Challenge Registration
+To particiapate, please complete the [Registration Form HERE](https://docs.google.com/forms/d/e/1FAIpQLSf7Gt2_fXfDKNt06OrwpkqhlMxXPJep0XDEbSnMtasfAxsbHg/viewform?edit_requested=true&fbzx=-5424371331795866531).
 
+<!--
 You can also check the Tutorial page and recorded tutorial videos as most questions were discussed in there. 
 
 <ul> 
