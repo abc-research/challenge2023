@@ -1,25 +1,41 @@
 ---
 layout: single
-title: About the Fourth Nurse Care Activity Recognition Challenge
+title: 5th ABC Challenge: Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
 permalink: /learn/
-date: 2022-07-1T00:00:00+09:00
+date: 2023-05-8T00:00:00+09:00
 ---
 
-Human Activity Recognition (HAR) is the process of handling information from sensors and/or video capture devices under certain circumstances to correctly determine human activities. Traditionally, the HAR can be achieved by human observation through the visualization of video recording devices. However, it is time and labor consuming. Nowadays, this traditional way could be replaced by other simple and automatic methods based on sensors and Artificial Intelligence platforms. For instance, your smartphone or other smart wearable devices have the ability to recognize some of your movements such as walking or running based on the inside accelerometer sensor.
+Parkinson's disease (PD) is a neurodegenerative disorder caused by the loss of dopamine-producing brain cells.
+It primarily affects the patient's motor abilities but also impacts non-motor functions over time.
+Patients' symptoms include tremors, muscle stiffness, and difficulty walking and balancing.
+Then it disrupts the patients' sleep, speech, and mental functions, affecting their quality of life (QoL).
 
-In addition, HAR has several remarkable applications in the real world, especially in the healthcare field. Besides the elderly/patient’s activity monitoring, the caregiver’s activity recognition plays an important role to improve the healthcare quality. Moreover, specifically in developed countries, the number of the elderly increases rapidly due to population aging, while the number of nurses can not satisfy. The greater the pressure on nurses, the more uncertain the healthcare quality is. Therefore, nurse care activity recognition is implemented to help the caregiver/nurse well manage and improve the quality of their work. In this challenge, based on the accelerometer data collected from the smartphone, the cheapest and easy-to-implement way, we aim to recognize the daily nurse care activities taking place at the nursing care facility.
+PD patients who experience the wearing-off phenomenon have their symptoms reappear before their next Levodopa (L-dopa) treatment intake.
+L-dopa treatment is a one of the treatments for PD patients by producing dopamine in the brain, which alleviates the symptoms.
+Over time, the medicine's effective time shortens, causing discomfort among PD patients.
+Thus, patients and clinicians need to monitor and record the patient's symptoms for adequate treatment, since there is no cure for Parkinson's disease.
+
+Patients and clinicians can continuously monitor patients' health with the improvement of wearable devices such as smartphones, fitness trackers, and smartwatches.
+We use these technologies to monitor patients' health, record wearing-off periods, and document the impact of L-dopa intake on their symptoms in order to forecast the wearing-off periods in PD patients.
 
 ## Challenge Goal 
-The goal of this year’s Nurse Care Activity Recognition Challenge is to predict the hourly activities of a caregiver/nurse in a healthcare facility based on the care records file and accelerometer data collected from smartphones. Along with the time data from the care records we expect participants to utilize accelerometer data to predict the future occurrence of the activities (future prediction). The activity labels can be found in care record files. Participants should suggest ways for extracting features from these data, using alternative windowing approaches if possible, and then feeding them into their own model. Finally, each team needs to use their model to predict the activity followed by the timestamp in the test data. You can check out the basic [HAR tutorial here](https://abc-research.github.io/nurse2021/tutorial/tutorial.html).
+The goal of this challenge is to forecast the wearing-off in the next hour given past data.
+Participants are tasked to create a model that can anticipate the "wearing-off" of anti-PD medication.
+In a real-world setting, we used fitness tracker data and self-reported symptoms via a smartphone app.
+This will help the doctors to create specific treatment strategies to properly control Parkinson's disease and its associated symptoms to manage Parkinson's disease and its associated symptoms properly. Participants' task is to develop a model that forecasts wearing-off in the next hour given past data. The original project is one of the [2022 Garmin Health Awards winners](https://www.kyutech.ac.jp/english/en-news/topics/entry-9408.html#prettyPhoto).
 
+## Dataset Overview
+There are three datasets for this challenge.
+- Garmin dataset contains PD patients' heart rate, number of steps, stress level, and sleep pattern.
+- Wearing-off periods dataset was based on the Wearing-Off Questionnaire (WoQ-9). PD patients self-report the absence or presence of wearing-off symptoms.
+- Drug intake dataset was also based on the WoQ-9. PD patients self-report the time of drug intake, and the effect of the drug to their symptoms.
+<!--
 - [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
 - [To understand the dataset more clearly](/challenge2022/data/)
 - [Download the dataset](https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0)
 
-Time mismatch is part of the challenge. You need to think of ways to utilize as much as data possible. Our main focus is the care record data and accelerometer data is given as auxiliary information. The participants can use both or either of the data provided.
 
-
-<!--edit this part
+edit this part
 The training and testing dataset contains accelerometer data and care record data of 5 users ( 8, 13, 14, 15, 25), which were collected on May and June, 2018. Training and testing data were separated in 70~30 ratio based on each user data. Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset.
 
 
@@ -36,7 +52,7 @@ Accuracy will be used as the performance measure.
 Submissions will be evaluated by the average of the accuracy of macro activity classification (ma) and the average accuracy of micro-activity classification (mi). That is (ma+mi)/2.
 
 The average accuracy of micro-activity classification is based on the multi-label accuracy formula. The accuracy of one sample is given by the number of correct labels predicted divided by the number of total true and predicted labels (cardinality of the union). 
--->
+
 ## Evaluation
 Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset as shown in the [tutorial](https://colab.research.google.com/drive/1euqLhhsb21bbOETWMY9DkUcue6t33j1j?usp=sharing). The test submission folder contains test time stamps that you need to predict for each user. The files contain time stamps, and activity_type_ids and the columns are filled up with zero as shown in Table 3 below.
 
@@ -57,7 +73,7 @@ Please submit your results via the submission form. [Access the Submission Form 
 
 ## Data use
 All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0)
-
+-->
 
 ## Prizes
 - The winning team will be awarded 100,000 jpy.
