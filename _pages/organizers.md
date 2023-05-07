@@ -1,24 +1,24 @@
 ---
 layout: single
 permalink: /organizers/
-date: 2023-04-24T00:00:00+09:00
+date: 2023-05-06T00:00:00+09:00
 ---
-This challenge and associated workshop are organized by [Sozolab](https://sozolab.jp/?locale=en).
+This challenge and associated workshop are organized by [Sozo Laboratory](https://sozolab.jp/?locale=en) and [Shibata Laboratory](https://www.brain.kyutech.ac.jp/~tom/)
 
-- *John Noel Victorino*
-- *Christina Garcia*
-- *Defry Hamdhana*
-- *Nazmun Nahid*
-- *Haru Kaneko*
-- *Muhammad Fikry*
-- *Tahera Hossain*
-- *Sozo Inoue*
-
-## Lab Information
-Sozo Inoue Lab, Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology.
+- *John Noel Victorino*, Kyutech
+- *Christina Garcia*, Kyutech
+- *Defry Hamdhana*, Kyutech
+- *Nazmun Nahid*, Kyutech
+- *Haru Kaneko*, Kyutech
+- *Muhammad Fikry*, Kyutech
+- *Tahera Hossain*, Aoyama Gakuin University
+- *Sozo Inoue*, Kyutech
+- *Tomohiro Shibata*, Kyutech
 
 ## Address
-*Wakamatsu campus:* 2-4 Hibikino Wakamatsu-ku Kitakyushu Fukuoka 808-0196 JAPAN (Room 7270).
+Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology.
+*Wakamatsu campus:* 2-4 Hibikino Wakamatsu-ku Kitakyushu Fukuoka 808-0196 JAPAN.
 
-*Phone/FAX:* (81) - 93 - 884 - 3410
+*email* abc2023@sozolab.jp
+
 
