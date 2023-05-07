@@ -1,9 +1,11 @@
 ---
 layout: single
-title: 5th ABC Challenge: Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
+title: 5th ABC Challenge
 permalink: /learn/
 date: 2023-05-8T00:00:00+09:00
 ---
+
+## 5th ABC Challenge: Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
 
 Parkinson's disease (PD) is a neurodegenerative disorder caused by the loss of dopamine-producing brain cells.
 It primarily affects the patient's motor abilities but also impacts non-motor functions over time.
