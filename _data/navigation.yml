@@ -1,7 +1,7 @@
 # main links
 main:
-#  - title: "The Challenge"
-#    url: /learn/
+  - title: "The Challenge"
+    url: /learn/
 #  - title: "Data" 
 #    url: /data/
   # - title: "Rules"
@@ -17,8 +17,8 @@ main:
   #   url: /submit/
   #- title: "Registration"
   #  url: "https://forms.gle/GLFrkG5AxxCEuduh8"
- # - title: "FAQ"
- #   url: /faq/
+  - title: "FAQ"
+    url: /faq/
   - title: "Organizers"
     url: /organizers/
   # - title: "Prize rules"
