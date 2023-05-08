@@ -24,7 +24,7 @@ We use these technologies to monitor patients' health, record wearing-off period
 The goal of this challenge is to forecast the wearing-off in the next hour given past data.
 Participants are tasked to create a model that can anticipate the "wearing-off" of anti-PD medication.
 In a real-world setting, we used fitness tracker data and self-reported symptoms via a smartphone app.
-This will help the doctors to create specific treatment strategies to properly control Parkinson's disease and its associated symptoms to manage Parkinson's disease and its associated symptoms properly. Participants' task is to develop a model that forecasts wearing-off in the next hour given past data. The original project is one of the [2022 Garmin Health Awards winners](https://www.kyutech.ac.jp/english/en-news/topics/entry-9408.html#prettyPhoto).
+This will help the doctors to create specific treatment strategies to properly manage Parkinson's disease and its associated symptoms. Participants' task is to develop a model that forecasts wearing-off in the next hour given past data. The original project is one of the [2022 Garmin Health Awards winners](https://www.kyutech.ac.jp/english/en-news/topics/entry-9408.html#prettyPhoto).
 
 ## Dataset Overview
 There are three datasets for this challenge.
