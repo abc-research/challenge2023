@@ -13,22 +13,16 @@ There are three datasets for this challenge.
 ## Data structure
 Datasets will be published in the following directory structure.
 
-![Table2](/challenge2023/assets/images/data_structure.png)
+![data_structure](/challenge2023/assets/images/data_structure.png)
 
 Inside the training data folder, we have provided files containing Garmin data, wearing-off information, and drug intake information.
 If you open the files you can see the following columns for each sheet.
 
-<p> 
-  <img src="/challenge2023/assets/images/t1_garmin.png" class="center" width="300"/>
-</p>
+![t1_garmin](/challenge2023/assets/images/t1_garmin.png)
 
-<p> 
-  <img src="/challenge2023/assets/images/t2_wearingoff.png" class="center" width="300"/>
-</p>
+![t2_wearingoff](/challenge2023/assets/images/t2_wearingoff.png)
 
-<p> 
-  <img src="/challenge2023/assets/images/t3_drugintake.png" class="center" width="300"/>
-</p>
+![t3_drugintake](/challenge2023/assets/images/t3_drugintake.png)
 
 
 <!-- 
