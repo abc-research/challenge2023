@@ -73,10 +73,10 @@ For evaluation along with counting the percentage of how many activities were pr
 
 ## Result Submission
 Please submit your results via the submission form. [Access the Submission Form here](https://forms.gle/cDEhfHQjiSGKP5Zh6)
-
-## Data use
-All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0)
 -->
+## Data use
+All participants may use the data free of charge. [Download the dataset]([https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0](https://ieee-dataport.org/competitions/5th-abc-challenge-forecasting-parkinsons-disease-patients-wearing-phenomenon-datasets)
+
 
 ## Prizes
 - The winning team will be awarded 100,000 jpy.
