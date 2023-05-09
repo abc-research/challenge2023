@@ -32,13 +32,23 @@ There are three datasets for this challenge.
 - Wearing-off periods dataset was based on the Wearing-Off Questionnaire (WoQ-9). PD patients self-report the absence or presence of wearing-off symptoms.
 - Drug intake dataset was also based on the WoQ-9. PD patients self-report the time of drug intake, and the effect of the drug to their symptoms.
 
+ To understand the dataset more clearly, [visit the dataset page](/challenge2023/data/)
+
+
+## Result Submission
+Participants should forecast wearing-off for the timeframe detailed in Table 1 for each participant.
+
+![forecast_timeframe](/challenge2023/assets/images/forecast_timeframe.png)
+
+![submission_format](/challenge2023/assets/images/submission_format.png)
+
+The submission file name should be named challenge_[team_name]_result.csv following the format in Table 2.
+
+![submission_file](/challenge2023/assets/images/submission_file.png)
+
+
 <!--
 - [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
-- [To understand the dataset more clearly](/challenge2022/data/)
-- [Download the dataset](https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0)
-
-
-
 
 
 
