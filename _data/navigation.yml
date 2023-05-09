@@ -2,8 +2,8 @@
 main:
   - title: "The Challenge"
     url: /learn/
-#  - title: "Data" 
-#    url: /data/
+  - title: "Data" 
+    url: /data/
   # - title: "Rules"
   #   url: /rules/
 #  - title: "Tutorial" 
