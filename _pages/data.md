@@ -15,7 +15,7 @@ Datasets will be published in the following directory structure.
 
 ![data_structure](/challenge2023/assets/images/data_structure.png)
 
-Inside the training data folder, we have provided files containing Garmin data, wearing-off information, and drug intake information.
+Inside the training data folder for each participant, we have provided files containing Garmin data, wearing-off information, and drug intake information.
 If you open the files you can see the following columns for each sheet.
 
 ![t1_garmin](/challenge2023/assets/images/t1_garmin.png)
@@ -24,6 +24,12 @@ If you open the files you can see the following columns for each sheet.
 
 ![t3_drugintake](/challenge2023/assets/images/t3_drugintake.png)
 
+Another sheet provided is the participant_information with the following columns inside the file.
+
+![t4_patientinfo](/challenge2023/assets/images/t4_patientinfo.png)
+
+## Data use
+All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/5th-abc-challenge-forecasting-parkinsons-disease-patients-wearing-phenomenon-datasets)
 
 <!-- 
 In the accelerometer data folder, the data is not split. So if you want to utilize it you can match it with your train and test care record file to split them as shown in the tutorial.
@@ -58,9 +64,6 @@ Participants are required to propose their pipelines, predict and submit the act
 The participants are required to put 1 in place of 0 when the activity is supposed to happen and regenerate the files. Please make sure to maintain the shape same as the provided files(any changes that occurred in the submission are not the liability of the organizers, please make sure that there is no difference in shape and activity_type_id  with the given file)
 
 
-## Data use
-All participants may use the data free of charge.
-[Download the dataset](https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge-datasets-2022-0)
 
 ## Result Submission
 Please submit your results via the submission form. [Access the Submission Form here](https://forms.gle/cDEhfHQjiSGKP5Zh6)
@@ -119,15 +122,7 @@ td {
     <tr><td>27: Emergency response such as accident</td></tr>
 </table>
 
-<table>
-  <tr>
-    <th style="text-align: left"><h3>Activities of residence cleaning</h3></th>
-  </tr>
-    <tr><td>15: Linen exchange</td></tr>
-    <tr><td>23: Preparation and checking of goods</td></tr>
-    <tr><td>24: Organization of medications</td></tr>
-    <tr><td>16: Cleaning</td></tr>
-</table>
+
 
 <table>
   <tr>
@@ -139,25 +134,7 @@ td {
     <tr><td>18: Delegating/meeting</td></tr>
 </table>
 
-<table>
-  <tr>
-    <th style="text-align: left"><h3>Other activities</h3></th>
-  </tr>
-    <tr><td>26: Break</td></tr>
-    <tr><td>28: Special remarks/notes</td></tr>
-</table>
 
-
-## Data structure
-The training and testing dataset contains accelerometer data and care record data of 5 users ( 8, 13, 14, 15, 25), which were collected on May and June, 2018. Training and testing data were separated in 70~30 ratio based on each user data.
-
-The provided each user folder includes the accelerometer data files for whole time, training care record file and testing care record file. In training care record we have activity information but in testing care record we remove it. Your work is to predict these activities and generate files.
-
-In each accelerometer data file, we have 4 columns: datetime and 3 coordinates of the accelerometer data.
-
-![data-acc](/nurse2021/assets/data-acc.png)
-
-In the care record file, we have 12 columns: id (label id), user_id, role, activity_type_id, activity_type (name in japanese), activity_type_e (name in english), date, start time, finish time (of the activity), target_id (patients), target_role, activity2user_id. Participants should note that the start and finish time at the label_train file may differ from the datetime at the accelerometer file due to the different time zone.
 
 
 
