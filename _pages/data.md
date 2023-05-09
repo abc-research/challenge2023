@@ -2,25 +2,36 @@
 layout: single
 title: Data Description
 permalink: /data/
-date: 2022-07-1T00:00:00+09:00
+date: 2023-05-8T00:00:00+09:00
 ---
-The accelerometer data has been collected using one smartphone carried by subjects, which are caregivers and nurses when they were conducting daily works at a healthcare facility. The smartphone was carried in an arbitrary position such as a pocket. There are a total of 28 activities divided into 4 groups. All the activities are listed in the below table.
+There are three datasets for this challenge.
+- Garmin dataset contains PD patients' heart rate, number of steps, stress level, and sleep pattern.
+- Wearing-off periods dataset was based on the Wearing-Off Questionnaire (WoQ-9). PD patients self-report the absence or presence of wearing-off symptoms.
+- Drug intake dataset was also based on the WoQ-9. PD patients self-report the time of drug intake, and the effect of the drug to their symptoms.
 
-<p>
-  <img src="/challenge2022/assets/images/Table1.png" width="650" class="centerImage"/>       
-</p>
 
 ## Data structure
-The data were collected on May and June 2018. This time for the challenge we are providing data of 5 users ( 8, 13, 14, 15, 25). Training and testing care record data separation dates are given in the table below.
+Datasets will be published in the following directory structure.
 
-![Table2](/challenge2022/assets/images/Table2.png)
+![Table2](/challenge2023/assets/images/data_structure.png)
 
-Inside the training data folder, we have provided both care records data and accelerometer data.
+Inside the training data folder, we have provided files containing Garmin data, wearing-off information, and drug intake information.
+If you open the files you can see the following columns for each sheet.
 
 <p> 
-  <img src="/challenge2022/assets/images/TrainData.png" class="center" width="300"/>
+  <img src="/challenge2023/assets/images/t1_garmin.png" class="center" width="300"/>
 </p>
 
+<p> 
+  <img src="/challenge2023/assets/images/t2_wearingoff.png" class="center" width="300"/>
+</p>
+
+<p> 
+  <img src="/challenge2023/assets/images/t3_drugintake.png" class="center" width="300"/>
+</p>
+
+
+<!-- 
 In the accelerometer data folder, the data is not split. So if you want to utilize it you can match it with your train and test care record file to split them as shown in the tutorial.
 
 <p>
