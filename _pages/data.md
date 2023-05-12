@@ -2,7 +2,7 @@
 layout: single
 title: Data Description
 permalink: /data/
-date: 2023-05-8T00:00:00+09:00
+date: 2023-05-12T00:00:00+09:00
 ---
 There are three datasets for this challenge.
 - Garmin dataset contains PD patients' heart rate, number of steps, stress level, and sleep pattern.
@@ -30,6 +30,8 @@ Another sheet provided is the participant_information with the following columns
 
 ## Data use
 All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/5th-abc-challenge-forecasting-parkinsons-disease-patients-wearing-phenomenon-datasets)
+
+<b> May 12 2023 : The data were updated because sleep data were not included.
 
 <!-- 
 In the accelerometer data folder, the data is not split. So if you want to utilize it you can match it with your train and test care record file to split them as shown in the tutorial.
