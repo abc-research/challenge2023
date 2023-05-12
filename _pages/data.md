@@ -13,7 +13,7 @@ There are three datasets for this challenge.
 ## Data structure
 Datasets will be published in the following directory structure.
 
-![data_structure](/challenge2023/assets/images/data_structure.png)
+![data_structure](/challenge2023/assets/images/data_structure2.png)
 
 Inside the training data folder for each participant, we have provided files containing Garmin data, wearing-off information, and drug intake information.
 If you open the files you can see the following columns for each sheet.
