@@ -13,7 +13,9 @@ There are three datasets for this challenge.
 ## Data structure
 Datasets will be published in the following directory structure.
 
-![data_structure](/challenge2023/assets/images/data_structure.png)
+<p>
+  <img src="/challenge2023/assets/images/data_structure.png" width="400" class="center"/>
+</p>
 
 Inside the training data folder for each participant, we have provided files containing Garmin data, wearing-off information, and drug intake information.
 If you open the files you can see the following columns for each sheet.
@@ -34,6 +36,9 @@ All participants may use the data free of charge. [Download the dataset](https:/
 <b> May 12 2023 : The data were updated because sleep data were not included.
 
 <!-- 
+
+![data_structure](/challenge2023/assets/images/data_structure.png)
+
 In the accelerometer data folder, the data is not split. So if you want to utilize it you can match it with your train and test care record file to split them as shown in the tutorial.
 
 <p>
