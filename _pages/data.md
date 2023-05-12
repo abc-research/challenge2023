@@ -14,7 +14,7 @@ There are three datasets for this challenge.
 Datasets will be published in the following directory structure.
 
 <p>
-  <img src="/challenge2023/assets/images/data_structure.png" width="1000" class="center"/>
+  <img src="/challenge2023/assets/images/data_structure.png" width="880" class="center"/>
 </p>
 
 Inside the training data folder for each participant, we have provided files containing Garmin data, wearing-off information, and drug intake information.
