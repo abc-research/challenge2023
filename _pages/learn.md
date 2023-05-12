@@ -2,7 +2,7 @@
 layout: single
 title: Abouth the 5th ABC Challenge
 permalink: /learn/
-date: 2023-05-8T00:00:00+09:00
+date: 2023-05-12T00:00:00+09:00
 ---
 
 ## Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
@@ -35,6 +35,12 @@ There are three datasets for this challenge.
  To understand the dataset more clearly, [visit the dataset page](/challenge2023/data/)
 
 
+
+<!--
+- [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
+
+
+
 ## Result Submission
 Participants should forecast wearing-off for the timeframe detailed in Table 1 for each participant.
 
@@ -45,11 +51,6 @@ Participants should forecast wearing-off for the timeframe detailed in Table 1 f
 The submission file name should be named challenge_[team_name]_result.csv following the format in Table 2.
 
 ![submission_file](/challenge2023/assets/images/submission_file.png)
-
-
-<!--
-- [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
-
 
 
 ## Evaluation
@@ -73,6 +74,7 @@ Please submit your results via the submission form. [Access the Submission Form 
 ## Data use
 All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/5th-abc-challenge-forecasting-parkinsons-disease-patients-wearing-phenomenon-datasets)
 
+<b> May 12 2023 : The data were updated because sleep data were not included.<\b>
 
 ## Prizes
 - The winning team will be awarded 100,000 jpy.
