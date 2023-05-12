@@ -74,7 +74,7 @@ Please submit your results via the submission form. [Access the Submission Form 
 ## Data use
 All participants may use the data free of charge. [Download the dataset](https://ieee-dataport.org/competitions/5th-abc-challenge-forecasting-parkinsons-disease-patients-wearing-phenomenon-datasets)
 
-<b> May 12 2023 : The data were updated because sleep data were not included.<\b>
+<b> May 12 2023 : The data were updated because sleep data were not included.
 
 ## Prizes
 - The winning team will be awarded 100,000 jpy.
