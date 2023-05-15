@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Abouth the 5th ABC Challenge
+title: About the 5th ABC Challenge
 permalink: /learn/
 date: 2023-05-12T00:00:00+09:00
 ---
