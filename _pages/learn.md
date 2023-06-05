@@ -36,12 +36,16 @@ There are three datasets for this challenge.
 
 
 
-<!--
-- [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
-
-
-
 ## Result Submission
+The submission file should have these columns. 
+- patient_id : Patient’s ID
+- timestamp: Base time of forecasting. Forecast whether or not a wearing-off will occur in the next hour after this time.
+- forecasted_wearing_off: 0 or 1
+  - 0 means wearing-off will not occur
+  - 1 means wearing-off will occur
+
+
+<!--
 Participants should forecast wearing-off for the timeframe detailed in Table 1 for each participant.
 
 ![forecast_timeframe](/challenge2023/assets/images/forecast_timeframe.png)
@@ -52,6 +56,9 @@ The submission file name should be named challenge_[team_name]_result.csv follow
 
 ![submission_file](/challenge2023/assets/images/submission_file.png)
 
+
+
+- [Check the tutorial here](https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing)
 
 ## Evaluation
 Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset as shown in the [tutorial](https://colab.research.google.com/drive/1euqLhhsb21bbOETWMY9DkUcue6t33j1j?usp=sharing). The test submission folder contains test time stamps that you need to predict for each user. The files contain time stamps, and activity_type_ids and the columns are filled up with zero as shown in Table 3 below.
