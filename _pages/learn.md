@@ -37,15 +37,20 @@ There are three datasets for this challenge.
 
 
 ## Result Submission
-The submission file should have these columns. 
-- patient_id : Patient’s ID
+The submission file contains the columns detailed below. 
 - timestamp: Base time of forecasting. Forecast whether or not a wearing-off will occur in the next hour after this time.
-- forecasted_wearing_off: 0 or 1
+- participant : Corresponding patient’s ID
+- final_wearing_off: 0 or 1
   - 0 means wearing-off will not occur
   - 1 means wearing-off will occur
 
+Participants should forecast wearing-off for for each participant for all the timeframe detailed in the submission csv.
+
 
 <!--
+Table 1 provides the overview of the file. 
+You can download the [submission.csv from HERE](/challenge2023/assets/images/forecast_timeframe.png)
+
 Participants should forecast wearing-off for the timeframe detailed in Table 1 for each participant.
 
 ![forecast_timeframe](/challenge2023/assets/images/forecast_timeframe.png)
