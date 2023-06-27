@@ -6,7 +6,8 @@ main:
     url: /data/
   # - title: "Rules"
   #   url: /rules/
-#  - title: "Tutorial" 
+  - title: "Tutorial" 
+    url: /tutorial/
 #    url: "https://colab.research.google.com/drive/1A4zSOSO0IXwc-iB9EFdOr6mUP85KAxFm?usp=sharing"
   #  url: /tutorial/tutorial.html https://colab.research.google.com/drive/1euqLhhsb21bbOETWMY9DkUcue6t33j1j?usp=sharing
 #  - title: "Results"
