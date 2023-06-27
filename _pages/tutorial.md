@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /prize_rules/
+permalink: /tutorial/
 title: "Tutorial"
 last_modified_at: 2023-06-28T00:00:00-09:00
 ---
