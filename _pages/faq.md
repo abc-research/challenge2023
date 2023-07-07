@@ -15,6 +15,9 @@ To particiapate, please complete the [Registration Form HERE](https://docs.googl
 
 ## Result Submission
 Please submit your results via the submission form. [Access the Submission Form HERE](https://forms.gle/pX1FCBMr9Tb5FE9n9)
+
+
+
 <!--
 You can also check the Tutorial page and recorded tutorial videos as most questions were discussed in there. 
 
