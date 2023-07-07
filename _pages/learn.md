@@ -2,7 +2,7 @@
 layout: single
 title: About the 5th ABC Challenge
 permalink: /learn/
-date: 2023-05-12T00:00:00+09:00
+date: 2023-07-07T00:00:00+09:00
 ---
 
 ## Forecasting Parkinson's Disease Patients' Wearing-Off Phenomenon
@@ -46,6 +46,7 @@ The submission file contains the columns detailed below.
 
 Participants should forecast wearing-off for for each participant for all the timeframe detailed in the submission csv.
 
+Please submit your results via the submission form. [Access the Submission Form here](https://forms.gle/pX1FCBMr9Tb5FE9n9)
 
 <!--
 Table 1 provides the overview of the file. 
