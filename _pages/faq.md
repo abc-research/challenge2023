@@ -30,7 +30,7 @@ The expected contents of the paper are:
 
 Submit the paper at [CMT submission page](https://cmt3.research.microsoft.com/ABC2023).
 
-Registration for the ABC conference is also now available on the [main ABC2023 website](https:abc-research.github.io).
+Registration for the ABC conference is also now available on the [main ABC2023 website](https://abc-research.github.io).
 
 <!--
 You can also check the Tutorial page and recorded tutorial videos as most questions were discussed in there. 
