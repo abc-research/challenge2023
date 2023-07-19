@@ -16,7 +16,21 @@ To particiapate, please complete the [Registration Form HERE](https://docs.googl
 ## Result Submission
 Please submit your results via the submission form. [Access the Submission Form HERE](https://forms.gle/pX1FCBMr9Tb5FE9n9)
 
+## Challenge Paper Submission
+The paper should be written in English, following the ABC formatting guidelines.
+The paper is should be 8-12 pages including references.
+The expected contents of the paper are:
+<ul> 
+<li> <b>Abstract:</b> A concise summary of the team’s proposed method and the results. </li>
+<li> <b>Methodology:</b> A detailed description of the methodology, including the dataset, preprocessing, model development, and evaluation metrics.</li>
+<li> <b>Results and Discussion:</b> A presentation and analysis of the results and a discussion of the strengths and limitations of the proposed method. </li>
+<li> <b>Conclusion:</b> A summary of the team’s main findings, implications, and suggestions for future work. </li>
+<li> <b>References:</b> A list of references, including the three main papers of the challenge (under Published papers about the dataset) </li>
+</ul>
 
+Submit the paper at [CMT submission page](https://cmt3.research.microsoft.com/ABC2023).
+
+Registration for the ABC conference is also now available on the [main ABC2023 website](https:abc-research.github.io).
 
 <!--
 You can also check the Tutorial page and recorded tutorial videos as most questions were discussed in there. 
