@@ -25,8 +25,8 @@ main:
   # - title: "Prize rules"
   #   url: /prize_rules/
 
-  # - title: "Results"
-  #   url: /results/
+   - title: "Results"
+     url: /results/
 
   # - title: "Sitemap"
   #   url: /sitemap/
