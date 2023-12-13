@@ -25,14 +25,14 @@ The Fifth Activity Recognition Challenge was successfully held and the results w
 
 <h2>Other Participating Teams</h2> 
 <h3><b>Team Parkinsons AI Squad </b></h3>
-<div><b>Title:</b>Foreseeing wearing-off state in Parkinson’s disease patients, a multimodal approach with the usage of machine learning and wearables </div>
+<div><b>Title:</b> Foreseeing wearing-off state in Parkinson’s disease patients, a multimodal approach with the usage of machine learning and wearables </div>
 <div><b>Authors:</b> Justyna Skibinska (Brno University of Technology & Tampere University)*; Zaigham Abbas Shah Abbas Shah (MUET ); Asma Channa (University POLITEHNICA of Bucharest & University Mediterranea of Reggio Calabria ); Muhammad Shehram Shah Syed (Mehran University of Engineering and Technology); Zafi Sherhan Syed (Mehran University of Engineering & Technology); Jiri Hosek (Brno University of Technology) </div>
 
 <p></p>
 
 <h3><b> Team Insight Innovators </b></h3>
 <div><b>Title:</b> Wearable Technology-Enabled Prediction of Wearing-Off Phenomenon in Parkinson's Disease: A Personalized Approach Using LSTM-Based Time-Series Analysis</div>
-<div><b>Authors:</b>  Md. Ifaj Hossan Omi (American International University-Bangladesh (AIUB))*; Md Atik Shams (University of Asia Pacific); Md. Samiur Rahman (University of Asia Pacific); Ziaul Karim Asfi (University of Asia Pacific (UAP)); Akhtaruzzaman Adnan (UAP); Shahera Hossain (University of Asia Pacific, Bangladesh) </div>
+<div><b>Authors:</b> Md. Ifaj Hossan Omi (American International University-Bangladesh (AIUB))*; Md Atik Shams (University of Asia Pacific); Md. Samiur Rahman (University of Asia Pacific); Ziaul Karim Asfi (University of Asia Pacific (UAP)); Akhtaruzzaman Adnan (UAP); Shahera Hossain (University of Asia Pacific, Bangladesh) </div>
 
 <p></p>
 
