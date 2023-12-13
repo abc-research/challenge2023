@@ -22,11 +22,9 @@ main:
     url: /faq/
   - title: "Organizers"
     url: /organizers/
+  - title: "Results"
+    url: /results/
   # - title: "Prize rules"
   #   url: /prize_rules/
-
-   - title: "Results"
-     url: /results/
-
   # - title: "Sitemap"
   #   url: /sitemap/
